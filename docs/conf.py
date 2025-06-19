@@ -1,5 +1,5 @@
 
-project = 'Pogo Games Guide'
+project = 'Pogo Guide'
 author = 'Your Name'
 release = '1.0'
 
